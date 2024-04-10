@@ -24,8 +24,7 @@ function FormData() {
     return ( <
         div className = "App" >
         <
-        div className = "max-w-md mx-auto" > < /div> <
-        h1 > POST API Example < /h1>{' '} <
+        div className = "max-w-md mx-auto" > < /div>  <
         input type = "text"
         placeholder = "name"
         value = { name }
@@ -64,8 +63,8 @@ function FormData() {
         button type = "button"
         onClick = { saveData } > { ' ' }
         Save New User { ' ' } <
-        /button>{' '} <
-        /div>
+        /button>{' '} < /
+        div >
     )
 }
 export default FormData
