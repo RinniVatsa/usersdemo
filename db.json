@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "parth",
+      "email": "typicode",
+      "phone": "030954"
+    },
+    {
+      "id": "dac4",
+      "name": "samuel",
+      "email": "Divyansh321@test.com",
+      "mobile": "23344"
+    },
+    {
+      "id": "e380",
+      "name": "demo",
+      "email": "demo@123",
+      "phone": "00000999"
+    },
+    {
+      "id": "fbf9",
+      "name": "users12",
+      "email": "Rey.Padberg@karina.biz",
+      "mobile": "97655"
+    },
+    {
+      "id": "b987",
+      "name": "test",
+      "email": "test@123",
+      "mobile": "0939002"
+    },
+    {
+      "id": "68c8",
+      "name": "",
+      "email": "",
+      "mobile": ""
+    },
+    {
+      "id": "b158",
+      "name": "samuel",
+      "email": "Rey.Padberg@karina.biz",
+      "mobile": "+919667481490"
+    },
+    {
+      "id": "5ef1",
+      "name": "bruce nova",
+      "email": "tonyg@abc.in",
+      "mobile": "12233"
+    },
+    {
+      "id": "a55b",
+      "name": "Hailey",
+      "email": "helltext123@123",
+      "mobile": "0495983"
+    }
+  ]
+}
